@@ -38,10 +38,10 @@ a:active{
 }
 
 
-/* ’†g‚Ìw’è */
+/* ä¸­èº«ã®æŒ‡å®š */
 body{
 	background-color:#DED7D6;
-	font-family:"HGŠÛºŞ¼¯¸M-PRO","Arial","helvetica","ƒƒCƒŠƒI";
+	font-family:"HGä¸¸ï½ºï¾ï½¼ï½¯ï½¸M-PRO","Arial","helvetica","ãƒ¡ã‚¤ãƒªã‚ª";
 	font-size: 15px;
 	font-weight: 900;
 	font-variant: Normal;
@@ -120,10 +120,11 @@ body{
 }
 
 
-/* •¶šw’è */
+/* æ–‡å­—æŒ‡å®š */
 h1{
+	font-size:16px;
 	margin:0;
-	padding:20px;
+	padding:5px;
 }
 
 h2{
@@ -149,13 +150,14 @@ center{
 	margin:0px 0px 0px;
 }
 
+
 .size15{
 	font-size:15px;
 }
 
 tate
 
-/* ƒe[ƒuƒ‹w’è */
+/* ãƒ†ãƒ¼ãƒ–ãƒ«æŒ‡å®š */
 table{
 	margin-bottom:10px;
 }
@@ -185,7 +187,7 @@ tr{
 }
 
 
-/* Fw’è*/
+/* è‰²æŒ‡å®š*/
 p.red{
 	color: #FF0000;
 }
